@@ -1,3 +1,9 @@
+fonts-notosansjp (1.002-1ubuntu2) utopic; urgency=medium
+
+  * Release for Utopic
+
+ -- watiko <service@mail.watiko.net>  Fri, 24 Apr 2015 23:10:34 +0900
+
 fonts-notosansjp (1.002-1ubuntu1) trusty; urgency=medium
 
   * Release for Trusty
