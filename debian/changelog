@@ -1,6 +1,12 @@
+fonts-notosansjp (1.002-1) unstable; urgency=medium
+
+  * Update v1.002
+
+ -- watiko <service@mail.watiko.net>  Fri, 24 Apr 2015 22:38:28 +0900
+
 fonts-notosansjp (1.001-2) unstable; urgency=medium
 
-  * Provides fonts-japanese-gothic 
+  * Provides fonts-japanese-gothic
 
  -- watiko <service@mail.watiko.net>  Fri, 24 Apr 2015 22:10:00 +0900
 
