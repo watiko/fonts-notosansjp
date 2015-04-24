@@ -1,3 +1,9 @@
+fonts-notosansjp (1.002-1ubuntu3) vivid; urgency=medium
+
+  * Release for Vivid
+
+ -- watiko <service@mail.watiko.net>  Fri, 24 Apr 2015 23:12:59 +0900
+
 fonts-notosansjp (1.002-1ubuntu2) utopic; urgency=medium
 
   * Release for Utopic
