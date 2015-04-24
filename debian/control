@@ -13,6 +13,7 @@ Architecture: all
 Multi-Arch: foreign
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}
+Provides: fonts-japanese-gothic
 Description: NotoSansJP fonts, supporting Japanese.
  The supported scripts are Han, Hiragana, Katakana.
  Latin, Greek, Cyrllic, and various symbols are also

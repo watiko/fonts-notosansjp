@@ -1,3 +1,9 @@
+fonts-notosansjp (1.001-2) unstable; urgency=medium
+
+  * Provides fonts-japanese-gothic 
+
+ -- watiko <service@mail.watiko.net>  Fri, 24 Apr 2015 22:10:00 +0900
+
 fonts-notosansjp (1.001-1ubuntu3) vivid; urgency=medium
 
   * Release for Vivid
