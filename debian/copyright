@@ -3,7 +3,7 @@ Upstream-Name: noto
 Source: https://noto.googlecode.com/git/third_party/noto_cjk/
  This is part of Noto Fonts project. (https://code.google.com/p/noto/)
 
-Files: NEWS README.formats README.third_party
+Files: HISTORY NEWS README.formats README.third_party
 Copyright: 2014 Google Inc.
 License: OFL-1.1
 
