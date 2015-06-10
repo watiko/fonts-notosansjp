@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: watiko <service@mail.watiko.net>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: https://code.google.com/p/noto/
+Homepage: https://github.com/googlei18n/noto-cjk
 Vcs-Git: git://github.com/watiko/fonts-notosansjp.git
 Vcs-Browser: https://github.com/watiko/fonts-notosansjp
 
@@ -20,5 +20,5 @@ Description: NotoSansJP fonts, supporting Japanese.
  supported for compatibility with CJK standards.
  .
  The fonts in this package are developed by Google and Adobe and are
- released as open source under the Apache license version 2.0. The copyright
+ released as open source under the SIL Open Font License, Version 1.1. The copyright
  is held by Adobe, while the trademarks on the names are held by Google.
